@@ -13,7 +13,6 @@ def extract_data(file_path):
     - pd.DataFrame: Extracted data.
     """
     """TODO"""
-    """Complete the Code"""
 
     return df
 
